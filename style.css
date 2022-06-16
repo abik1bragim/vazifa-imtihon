@@ -87,7 +87,7 @@ nav li {
     margin-top: 500px;
     margin-left: 650px;
     transition: .7s;
-    position: absolute;
+    /* position: absolute; */
     z-index: 1;
 
 }
